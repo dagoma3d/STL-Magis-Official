@@ -1,6 +1,6 @@
 *.sldprt
 *.sldasm
 *.step
-*.jpg
-*.png
+*.stp
+*.ps1
 desktop.ini
